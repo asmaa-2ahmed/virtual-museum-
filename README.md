@@ -1,9 +1,4 @@
 # 🏛️ Virtual Museum
-
-🎥 **[Watch Output Demo](final video.mp4)**  
-📺 [[Attach Your Video Here](https://github.com/asmaa-2ahmed/virtual-museum-/final%20video.mp4)](https://github.com/asmaa-2ahmed/virtual-museum-/blob/main/final%20video.mp4)
-
-
 > A virtual museum experience where you explore **Ancient Egyptian artifacts** in **3D VR** and ask questions using an intelligent **AI Question-Answering (QA)** system powered by **RAG (Retrieval-Augmented Generation)**.
 
 ---
@@ -205,11 +200,6 @@ python main.py --query
 
 ---
 
-## 📽️ Output Video Demo
-
-📺 [Attach Your Video Here](https://github.com/asmaa-2ahmed/virtual-museum-/blob/main/output%20video.webm)
-
----
 
 ## 🧱 Future Enhancements
 
