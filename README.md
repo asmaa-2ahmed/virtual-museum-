@@ -1,7 +1,6 @@
-# 🏛️ Virtual Tour Guide – An Immersive VR Museum with AI-Powered Q&A
+# 🏛️ Virtual Museum
 
-🎥 **[Watch Output Demo](path_to_your_video.mp4)**  
-_(Attach your output demo video here once uploaded to GitHub or an external service)_
+🎥 **[Watch Output Demo](https://github.com/asmaa-2ahmed/virtual-museum-/blob/main/output%20video.webm)**  
 
 > A virtual museum experience where you explore **Ancient Egyptian artifacts** in **3D VR** and ask questions using an intelligent **AI Question-Answering (QA)** system powered by **RAG (Retrieval-Augmented Generation)**.
 
@@ -90,20 +89,6 @@ This project aims to:
    - Generates response with **Ollama + Mistral**.
 3. Text (and optional audio) returned to Unity.
 4. Unity displays response and plays audio.
-
----
-
-## 📁 Project Structure
-
-```
-VirtualTourGuide/
-├── backend/
-│   ├── main.py
-│   ├── chroma_store/
-│   └── data/         # Folder containing custom artifact PDFs
-├── unity_project/
-├── README.md
-```
 
 ---
 
@@ -220,7 +205,7 @@ python main.py --query
 
 ## 📽️ Output Video Demo
 
-📺 [Attach Your Video Here](path_to_your_video.mp4)
+📺 [Attach Your Video Here](https://github.com/asmaa-2ahmed/virtual-museum-/blob/main/output%20video.webm)
 
 ---
 
@@ -238,9 +223,3 @@ python main.py --query
 
 We welcome pull requests and feedback!  
 Build smarter, more inclusive museums with us. 🌍
-
----
-
-## 📄 License
-
-MIT License © 2025
